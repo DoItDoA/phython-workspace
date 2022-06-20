@@ -1,3 +1,6 @@
+(name, age, hobby) = ("김종국", 20, "코딩") # name="김종국", age=20, hobby="코딩"
+
+
 students = [1, 2, 3, 4, 5]
 print(students) # [1, 2, 3, 4, 5]
 
