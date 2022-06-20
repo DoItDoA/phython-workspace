@@ -11,3 +11,9 @@ print("나는 {0}색과 {1}색을 좋아해요.".format("파란","빨간")) # �
 
 # 방법 3
 print("나는 {red}색과 {blue}색을 좋아해요.".format(blue="파란", red="빨간"))
+
+# 방법 4 (v3.6 이상)
+age = 20
+color = "빨간"
+print(f"나는 {age}살이며, {color}색을 좋아해요.")
+
